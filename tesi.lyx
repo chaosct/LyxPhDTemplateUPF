@@ -30,7 +30,7 @@
 \paperfontsize default
 \spacing onehalf
 \use_hyperref true
-\pdf_title "Making Tabletops Useful with Applications, Frameworks and Multi-Tasking"
+\pdf_title "Lyx PhD Template for UPF"
 \pdf_author "Carles F. Julià"
 \pdf_subject "PhD thesis"
 \pdf_bookmarks true
