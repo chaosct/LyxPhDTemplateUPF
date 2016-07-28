@@ -5,6 +5,8 @@ This is an **unofficial** template to generate a beautifully compliant PhD disse
 
 The templates has all parts anyone should expect in this kind of document, including copyright notice (CC), funding notices, dedication page, aknowledgements, abstracts, index, the usual chapters, appendices (including list of publications), and other goodies.
 
+How does it look like? [Take a look](http://mtg.upf.edu/system/files/publications/thesis-Julia-Carles-F.pdf).
+
 
 Setup
 -----
