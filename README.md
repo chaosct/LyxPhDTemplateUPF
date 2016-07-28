@@ -1,7 +1,7 @@
 Lyx PhD Template for Universitat Pompeu Fabra
 =============================================
 
-This is an **unofficial** template to generate a beautifully compliant PhD dissertation document for Universitat Pompeu Fabra, using Lyx. Lyx is awesome, beautiful and powerful as Latex, but easy! After several people asked me how I managed to write my thesis in Lyx (trust me, it was not easy) I decided to just remove all the text from it and transform it into a template that can be actually used.
+This is an **unofficial** template to generate a beautifully A4-formatted compliant PhD dissertation document for Universitat Pompeu Fabra, using Lyx. Lyx is awesome, beautiful and powerful as Latex, but easy! After several people asked me how I managed to write my thesis in Lyx (trust me, it was not easy) I decided to just remove all the text from it and transform it into a template that can be actually used.
 
 The templates has all parts anyone should expect in this kind of document, including copyright notice (CC), funding notices, dedication page, aknowledgements, abstracts, index, the usual chapters, appendices (including list of publications), and other goodies.
 
